@@ -1,5 +1,5 @@
 baseURL = "https://example.com"
-languageCode = "en-us"
+languageCode = "zh-cn"
 title = "TOC Page"
 Paginate = 1000
 googleAnalytics = ""
@@ -10,10 +10,10 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
   title = "TOC Page"
   description = "Table of Contents (TOC) Page is a minimal, single-page theme for Hugo."
   logo = "bookmark.png"
-  copyright = "TOC Page Hugo - Madhu Akula"
-  copyrighturl = "https://madhuakula.com"
+  copyright = "TOC Page Hugo - Yaney"
+  copyrighturl = "https://github.com/y4ney"
 
 [social]
   # You can add custom key value pairs here
-  Github = "https://github.com/madhuakula"
-  Twitter = "https://twitter.com/madhuakula"
+  Github = "https://github.com/y4ney"
+  Twitter = "https://x.com/Yaney_YangLi"

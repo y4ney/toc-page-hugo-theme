@@ -1,11 +1,11 @@
 ---
 scenario: 0
-title: Introduction
+title: 简介
 notes:
-    - Refer to the Documentation at https://github.com/madhuakula/toc-page-hugo-theme
-label: Guide
+    - 请参考 <https://github.com/y4ney/toc-page-hugo-theme> 上的文档
+label: 指南
 ---
 
-![TOC Page](bookmark.png#center)
+![目录页](bookmark.png#center)
 
-Table of Contents (TOC) Page is a minimal, single-page theme for Hugo.
+目录 (TOC) 页是一个适用于 Hugo 的简约单页主题。

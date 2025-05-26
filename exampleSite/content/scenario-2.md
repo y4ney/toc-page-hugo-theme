@@ -1,11 +1,11 @@
 ---
 scenario: 2
-title: Learn programming in minutes
+title: 几分钟学会编程
 notes:
-    - To get started with the scenario, navigate to https://learnxinyminutes.com
-label: Scenario
+    - 要开始这个场景，请访问 <https://learnxinyminutes.com>
+label: 场景
 ---
 
-# Learn programming in minutes
+# 几分钟学会编程
 
-Learn X in Y minutes. Take a whirlwind tour of your next favorite language. Community-driven!
+几分钟学会 X 语言。快速了解你下一个喜爱的编程语言。社区驱动！
