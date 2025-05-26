@@ -40,7 +40,10 @@
                             .Params.Label }}</span>
                         <ul class="font-semibold mr-2 text-left flex-auto text-black prose list-none">
                             {{ range .Params.Notes }}
-                            <li>{{ . }}</li>
+                            <li>
+                                {{ $note := . }}
+                                {{ $note | replaceRE `<(https?://[^>]+)>` `<a href="$1" class="text-blue-600 underline" target="_blank">$1</a>` | safeHTML }}
+                            </li>
                             {{ end }}
                         </ul>
                     </div>
